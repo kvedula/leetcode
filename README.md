@@ -1,6 +1,6 @@
 # LeetCode Practice
 
-Hi! My friends and I have been doing LeetCode problems on weeknights @ 10 PM. I'm keeping a log of the problems I have completed as well as the code I wrote for them. Feel free to view my code to understand the problems.
+Hi! My friends and I have been doing LeetCode problems daily. I'm keeping a log of the problems I have completed as well as the code I wrote to solve them. Feel free to view my code to understand or solve the problems.
 
 
 ## Problems
